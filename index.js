@@ -30,5 +30,3 @@ async function getUserIPAddress() {
         alert('An error occurred:', error);
     }
 }
-
-
